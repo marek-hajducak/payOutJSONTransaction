@@ -376,6 +376,20 @@
 			"merchant": "Marek Hajdučák",
 			"posting_date": "18. 1. 2019",
 			"value_date": "20. 1. 2019"
+		},
+		{
+			"id": 28,
+			"account_id": 1,
+			"name": "Výplata",
+			"ammount": 430.00,
+			"type": 1,
+			"incoming_type": "Pay",
+			"outgoing_type": null,
+			"outgoing_under_type": null,
+			"desctiption": "BalckBox Development Studio",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "12. 2. 2019",
+			"value_date": "15. 2. 2019"
 		}
 
 	]
