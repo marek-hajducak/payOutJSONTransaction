@@ -308,7 +308,7 @@
 			"value_date": "13. 9. 2018"
 		},
 		{
-			"id": 22,
+			"id": 23,
 			"account_id": 1,
 			"name": "Služby a Energie",
 			"ammount": 140.00,
@@ -320,6 +320,62 @@
 			"merchant": "Marek Hajdučák",
 			"posting_date": "12. 12. 2018",
 			"value_date": "15. 12. 2018"
+		},
+		{
+			"id": 24,
+			"account_id": 1,
+			"name": "Interner",
+			"ammount": 40.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Rentals and Services",
+			"outgoing_under_type": "Internet",
+			"desctiption": "Interner",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "1. 2. 2019",
+			"value_date": "3. 2. 2019"
+		},
+		{
+			"id": 25,
+			"account_id": 1,
+			"name": "Kabát",
+			"ammount": 50.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Buing",
+			"outgoing_under_type": "Clothes",
+			"desctiption": "Kabát H&M Aupark",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "12. 3. 2019",
+			"value_date": "20. 3. 2019"
+		},
+		{
+			"id": 26,
+			"account_id": 1,
+			"name": "Topánky",
+			"ammount": 45.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Buing",
+			"outgoing_under_type": "Shoes",
+			"desctiption": "Topánky CC Aupark Žilina",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "12. 2. 2019",
+			"value_date": "20. 2. 2019"
+		},
+		{
+			"id": 27,
+			"account_id": 1,
+			"name": "Mobil",
+			"ammount": 230.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Buing",
+			"outgoing_under_type": "Electronics",
+			"desctiption": "Iphone SE, Aupark m:zone",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "18. 1. 2019",
+			"value_date": "20. 1. 2019"
 		}
 
 	]
