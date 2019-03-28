@@ -222,6 +222,62 @@
 			"merchant": "Anna Bachratá",
 			"posting_date": "10. 3. 2019",
 			"value_date": "11. 3. 2019"
+		},
+		{
+			"id": 17,
+			"account_id": 1,
+			"name": "Edinburgh",
+			"ammount": 230.80,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Traveling",
+			"outgoing_under_type": null,
+			"desctiption": "Výber z Bankomatu",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "17. 1. 2019",
+			"value_date": "19. 1. 2019"
+		},
+		{
+			"id": 18,
+			"account_id": 1,
+			"name": "Berlín",
+			"ammount": 388.95,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Traveling",
+			"outgoing_under_type": null,
+			"desctiption": "Berlín platba kartou",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "25. 3. 2019",
+			"value_date": "17. 3. 2019"
+		},
+		{
+			"id": 19,
+			"account_id": 1,
+			"name": "Strava",
+			"ammount": 1200.95,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Eat and Drink",
+			"outgoing_under_type": null,
+			"desctiption": "Jedáleň",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "16. 2. 2019",
+			"value_date": "18. 2. 2019"
+		},
+		{
+			"id": 20,
+			"account_id": 1,
+			"name": "Počítače",
+			"ammount": 2000.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Bussines",
+			"outgoing_under_type": null,
+			"desctiption": "Kúpa techniky do firmy",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "05. 1. 2019",
+			"value_date": "06. 1. 2019"
 		}
 
 	]
