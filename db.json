@@ -278,6 +278,48 @@
 			"merchant": "Marek Hajdučák",
 			"posting_date": "05. 1. 2019",
 			"value_date": "06. 1. 2019"
+		},
+		{
+			"id": 21,
+			"account_id": 1,
+			"name": "iOS Kurz",
+			"ammount": 130.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Education",
+			"outgoing_under_type": "Courses",
+			"desctiption": "Edumy - iOS Kurz",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "17. 8. 2018",
+			"value_date": "18. 8. 2018"
+		},
+		{
+			"id": 22,
+			"account_id": 1,
+			"name": "Nájom",
+			"ammount": 300.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Rentals and Services",
+			"outgoing_under_type": "Rent",
+			"desctiption": "Nájom za byt",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "10. 9. 2018",
+			"value_date": "13. 9. 2018"
+		},
+		{
+			"id": 22,
+			"account_id": 1,
+			"name": "Služby a Energie",
+			"ammount": 140.00,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Rentals and Services",
+			"outgoing_under_type": "Services",
+			"desctiption": "Energie a služby za byt",
+			"merchant": "Marek Hajdučák",
+			"posting_date": "12. 12. 2018",
+			"value_date": "15. 12. 2018"
 		}
 
 	]
